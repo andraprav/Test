@@ -1,10 +1,10 @@
 
-public class Undergraduate extends Student{
+public class Graduates extends Student{
 
 	@Override
 	public int getHoursPerWeek() {
 		// TODO Auto-generated method stub
-		return 30;
+		return 35;
 	}
 
 }
