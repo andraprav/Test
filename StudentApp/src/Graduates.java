@@ -6,5 +6,11 @@ public class Graduates extends Student{
 		// TODO Auto-generated method stub
 		return 35;
 	}
+	
+	
+	
+	
+	
+	
 
 }
